@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "id": "scara_script",
+  "author": "RuiJun",
+  "description": { "": "元萝卜 SCARA 数字样机生成器：顶部 TASK 常量选 single(单文件骨架)/parts(6个零件文件)/assy(外部参照装配体)" },
+  "version": "0.2.0",
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}

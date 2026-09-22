@@ -1,0 +1,14 @@
+# 含 API key 的本地配置
+.mcp.json
+
+# 大体积照片（154MB）与第三方工具克隆
+pics/
+fusion-mcp/
+
+# 本地配置与 IDE
+.claude/
+.idea/
+
+# 缓存与临时文件
+__pycache__/
+~$*
